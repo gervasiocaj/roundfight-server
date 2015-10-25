@@ -23,7 +23,7 @@ GET /rf/leaderboard/{user}
 POST /rf//leaderboard/{user}/{points}
 ```
 
-### Obtém o multiplicador para o usuário {user} nas coordenadas {lat},{lon}
+### Obtém o multiplicador para o usuário {user} nas coordenadas {lat},{lon}, e o adiciona na lista de multiplicadores
 ```
 GET /rf/multiplier/{lat}/{lon}
 ```
